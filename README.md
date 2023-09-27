@@ -1,1 +1,19 @@
-# DataEcosystemMarketAnalysis
+## Market analysis on data ecosystem initiators
+
+This repository contains the datafile gathered, and used, in the research paper "A market analysis on data ecosystem initiators and their value propositions in different ecosystems". In this research a market exploration was performed, resulting in a dataset of a little over 100 organisations, companies, and initiatives that were considered initiators of data ecosystems. For more information on inclusion criteria for the dataset, working definitions on data ecosystems and accompanying concepts, and additional insights on this dataset, we like to refer you to the paper itself (current status: in preparation for submission).  
+
+### Data fields
+In this analysis we determined the current initiator’s maturity, the ecosystem scope in which they (or their customers) act, the main service that is offered by the initiator, and characterisation of the ecosystems they set up in terms of openness, data access and initiator goal.
+
+| Data field            	| Description                                                                                                                 	| Values                                                                                                                                                                                                                               	|
+|-----------------------	|-----------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Stage                 	| The maturity of the initiator, reflecting if operations are in an early phase or have evolved towards a productized phase   	| conceptual stage, pilot cases, non-pilot cases, licenced product                                                                                                                                                                     	|
+| Ecosystem scope       	| The ecosystem scope defines the boundaries of the ecosystem in terms of who are participating actors, and who are outsiders 	| single organisation, application domain specific, cross-domain                                                                                                                                                                       	|
+| Main service offering 	| The main service offering represents the initiator's main activity                                                          	| consultancy, infrastructure, matchmaking, auditing, software-as-a-service, regulation compliance, data standardisation, access granting mechanisms, data-as-a-service, data analytics, clearinghouse,  data broker, governance tools 	|
+| Openness              	| The openness of the ecosystem represents the possibility for new actors to participate in the ecosystem                     	| open, closed                                                                                                                                                                                                                         	|
+| Data access           	| The data access defines the dependency of actors on specific applications to access, share and re-use data                  	| application independence, siloed                                                                                                                                                                                                     	|
+| Initiator goal        	| The initiator goal represents the initiator's envisioned goal by setting up the ecosystem                                   	| data sharing, privacy protection                                                                                                                                                                                                     	|
+
+### Licencing
+
+TODO
