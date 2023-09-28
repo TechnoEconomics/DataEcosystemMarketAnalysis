@@ -15,5 +15,4 @@ In this analysis we determined the current initiator’s maturity, the ecosystem
 | Initiator goal        	| The initiator goal represents the initiator's envisioned goal by setting up the ecosystem                                   	| data sharing, privacy protection                                                                                                                                                                                                     	|
 
 ### Licencing
-
-TODO
+This dataset belonging to the research paper "A market analysis on data ecosystem initiators and their value propositions in different ecosystems" © 2023 by Maarten de Mildt, Sofie Verbrugge, and Didier Colle is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/. Additionally to this licence, we ask to cite the research paper, in any work based on this dataset (such as a study, scientific paper, presentation...) as follows: (current status: in preparation for submission).   
