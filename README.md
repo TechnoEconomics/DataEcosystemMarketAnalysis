@@ -1,4 +1,6 @@
-## Market analysis on data ecosystem initiators
+## Market analysis on data ecosystem initiators 
+
+[![DOI](https://zenodo.org/badge/697310527.svg)](https://zenodo.org/badge/latestdoi/697310527)
 
 This repository contains the datafile gathered, and used, in the research paper "A market analysis on data ecosystem initiators and their value propositions in different ecosystems". In this research a market exploration was performed, resulting in a dataset of a little over 100 organisations, companies, and initiatives that were considered initiators of data ecosystems. For more information on inclusion criteria for the dataset, working definitions on data ecosystems and accompanying concepts, and additional insights on this dataset, we like to refer you to the paper itself (current status: in preparation for submission).  
 
