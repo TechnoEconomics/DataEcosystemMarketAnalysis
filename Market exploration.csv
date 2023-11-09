@@ -80,7 +80,7 @@ ThingsData,non-pilot cases,Single organisation,Infrastructure/Data analytics,Clo
 Sogeti,licencing product,Single organisation,Consultancy,Closed,Siloed,Data sharing,
 Savaco,licencing product,Single organisation,Data-as-a-service,Closed,Siloed,Data sharing,
 Yellowground,non-pilot cases,Single organisation,Data-as-a-service,Closed,Siloed,Data sharing,
-Blacktigerbelgium,licencing product,Application domain,Data-as-a-service,Closed,Siloed,Data sharing,have a product for data sharing, but unclear if it is integrated in any of their use cases
+Blacktigerbelgium,licencing product,Application domain,Data-as-a-service,Closed,Siloed,Data sharing,have a product for data sharing but unclear if it is integrated in any of their use cases
 HPE GreenLake,licencing product,Single organisation,Data analytics,Closed,Siloed,Data sharing,
 Element61,non-pilot cases,Single organisation,Consultancy,Closed,Siloed,Data sharing,
 Databricks,licencing product,Application domain,Data-as-a-service/Data standardisation,Open,Application independence,Data sharing,have a product for data sharing based on open standards and not requiring the use of the platform for external data or service providers but only one use case for it yet
