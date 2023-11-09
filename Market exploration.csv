@@ -6,7 +6,7 @@ VSDS;pilot cases;Cross-domain;Data standardisation;Open;Application independence
 Gaia-X;non-pilot cases;Application domain;Governance tools/Auditing;Open;Siloed/Application independence;Data sharing;
 HR-domain MVP by Athumi;pilot cases;Application domain;Infrastructure/Governance tools;Open;Application independence;Data sharing;
 JobTech;pilot cases;Cross-domain;Data-as-a-service;Open;Application independence;Data sharing;
-Atrias;non-pilot cases;Application domain;Data-as-a-service;Closed;Siloed;Data sharing;"odd-one-out, there is only one ""use case"", but it is in operation and there are no plans for other use cases"
+Atrias;non-pilot cases;Application domain;Data-as-a-service;Closed;Siloed;Data sharing;odd-one-out, there is only one use case, but it is in operation and there are no plans for other use cases
 Yuso;non-pilot cases;Application domain;Governance tools;Open;Application independence;Data sharing;
 DataVaults.eu;pilot cases;Cross-domain;Data standardisation/Governance tools;Open;Application independence;Data sharing;
 Trusts-data.eu;conceptual stage;Cross-domain;Governance tools;Open;Application independence;Data sharing;
@@ -76,7 +76,7 @@ Scuba;licencing product/subscription model;Single organisation;Data analytics;Cl
 Creates;non-pilot cases;Single organisation;Data-as-a-service/Data analytics;Closed;Siloed;Data sharing;
 GreenDataHub;pilot cases;Application domain;Matchmaking/Data-as-a-service;Open;Application independence;Data sharing;
 Simpatico Citizen Data Vault;pilot cases;Cross-domain;Data-as-a-service/Access granting mechanisms;Open;Application independence;Data sharing;
-ThingsData;non-pilot cases;Single organisation;Infrastructure/Data analytics;Closed;Siloed;Data sharing;"Focus on hardware, but also offer to integrate and process the data produced from different sources and types of hardware of the ecosystem of ""customers of ThingsData's customers"""
+ThingsData;non-pilot cases;Single organisation;Infrastructure/Data analytics;Closed;Siloed;Data sharing;Focus on hardware, but also offer to integrate and process the data produced from different sources and types of hardware of the ecosystem of customers of ThingsData's customers
 Sogeti;licencing product;Single organisation;Consultancy;Closed;Siloed;Data sharing;
 Savaco;licencing product;Single organisation;Data-as-a-service;Closed;Siloed;Data sharing;
 Yellowground;non-pilot cases;Single organisation;Data-as-a-service;Closed;Siloed;Data sharing;
@@ -89,7 +89,7 @@ Bobsled;licencing product;Cross-domain;Data-as-a-service/Access granting mechani
 Microsoft Azure Data sharing;licencing product/subscription model;Cross-domain;Access granting mechanisms;Open;Siloed;Data sharing;not yet available everywhere, limited cases implemented yet
 Opendatasoft;licencing product/subscription model;Cross-domain;Data-as-a-service/Data standardisation;Open;Application independence;Data sharing;Expertise is developing an open data platform
 Skyflow;non-pilot cases;Cross-domain;Access granting mechanisms;Open;Application independence;Data sharing;
-IDSA;licencing product;Application domain;Governance tools;Open;Application independence;Data sharing;"""licencing procuct"" is the standards and certification development as re-usable products"
+IDSA;licencing product;Application domain;Governance tools;Open;Application independence;Data sharing;licencing procuct is the standards and certification development as re-usable products
 Datacollaboration;pilot cases;Cross-domain;Governance tools;Open;Application independence;Data sharing;
 Domo;licencing product/subscription model;Single organisation;Data-as-a-service/Governance tools;Closed;Siloed;Data sharing;
 Narrative;licencing product/subscription model;Cross-domain;Data broker;Open;Application independence;Data sharing;limited use case information
